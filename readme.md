@@ -1,6 +1,6 @@
-# 5-Story Building Dynamic Analysis (MATLAB)
+# The Dynamic Analysis of a 5-Story Shear Building (MATLAB)
 
-This MATLAB project was completed in 2016 as a coursework exercise for the **Structural Dynamics** class.  
+This MATLAB project was completed in 2016 as a coursework assignment for the **Structural Dynamics** class.  
 It performs a complete **modal analysis** of a 5-story shear building and evaluates its dynamic response under different loading conditions.
 
 ## Features
