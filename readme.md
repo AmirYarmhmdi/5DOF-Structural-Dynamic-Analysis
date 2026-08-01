@@ -1,7 +1,8 @@
-# 5-Story Building Dynamic Analysis (MATLAB)
+# Structural Dynamics Simulation of a 5-Story Shear Building using MATLAB
 
 This MATLAB project was completed in 2016 as a coursework exercise for the **Structural Dynamics** class.  
 It performs a complete **modal analysis** of a 5-story shear building and evaluates its dynamic response under various loading conditions.
+This project represents my early experience with computational modeling and numerical simulation, which later evolved into my current work at the intersection of engineering, data, and AI.
 
 ## Building Parameters
 
